@@ -1,6 +1,6 @@
 <img src="img/triply.png" align="right" height="150">
 
-# Vocabulary for Annotating Vocabulary Descriptions (VANN)
+# Cinelab Ontology
 
 The Advene project aims at providing a model and various formats to
 share annotations about digital video documents (movies, courses,
